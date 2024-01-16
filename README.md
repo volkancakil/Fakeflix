@@ -1,7 +1,30 @@
-<h1 align="center">Fakeflix</h1>
-<h5 align="center">Not the usual clone that you can find on the web.</h5><br/>
+<a href="https://fakeflix.th3wall.codes">
+  <img alt="Fakeflix – Not the usual clone that you can find on the web" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/Fakeflix/Fakeflix_readme.png">
+  <h1 align="center">Fakeflix</h1>
+</a>
 
-![Image of Fakeflix Project](https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/Fakeflix/Fakeflix_readme.png)
+<p align="center">
+  Not the usual clone that you can find on the web.
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/Th3Wall25">
+    <img src="https://img.shields.io/twitter/follow/Th3Wall25?style=flat&label=Th3Wall25&logo=twitter&color=0bf&logoColor=fff" alt="Twitter" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#-about"><strong>About</strong></a> ·
+  <a href="#%EF%B8%8F-demo"><strong>Demo</strong></a> ·
+  <a href="#sparkles-features"><strong>Features</strong></a> ·
+  <a href="#rocket-technologies"><strong>Technologies</strong></a> ·
+  <a href="#-screenshots"><strong>Screenshots</strong></a> ·
+  <a href="#-run-locally"><strong>Run Locally</strong></a> ·
+  <a href="#white_check_mark-requirements"><strong>Requirements</strong></a> ·
+  <a href="#-license"><strong>License</strong></a> ·
+  <a href="#-star-history"><strong>Star history</strong></a>
+</p>
+<br/>
 
 https://user-images.githubusercontent.com/25078541/123811962-01474580-d8f4-11eb-83ba-66cded3f321f.mp4
 
@@ -17,14 +40,14 @@ Each row represents a movie/series category: you can click on it and you will be
 You can add/remove movies/series through the plus and minus buttons that you can find hovering each poster or opening a single movie's detail modal. If you click on the play button you can enjoy a custom CSS-only play animation with Fakeflix's brand name.<br/>
 You have also the option to search through TMDB's catalogue using the search functionality inside the fixed navbar: you can search by movie name, actor or movie director.<br/><br/>
 Go try it and please let me know if you enjoyed it with a ⭐️, I would appreciate it a lot.
+
 <br/>
 
 ## ▶️ Demo
 
-Here you can find the demo links:
+Here you can find the demo link:
 
-- [Vercel](https://fakeflix-clone.vercel.app/)
-- [Netlify](https://fakeflix-app.netlify.app/)
+- [Demo](https://fakeflix.th3wall.codes)
 
 ### Test credentials (for lazy users 😓)
 
@@ -32,6 +55,8 @@ Here you can find the demo links:
 > Password: FakeflixTest<br/>
 
 I have also added a button that lets you sign in anonymously.
+
+<br/>
 
 ## :sparkles: Features
 
@@ -50,6 +75,8 @@ I have also added a button that lets you sign in anonymously.
 :heavy_check_mark: &nbsp;&nbsp;Swipeable movies list<br />
 :heavy_check_mark: &nbsp;&nbsp;Loading skeletons<br />
 :heavy_check_mark: &nbsp;&nbsp;Route animations and micro-interactions (handled with Framer Motion)<br />
+
+<br/>
 
 ## :rocket: Technologies
 
@@ -71,10 +98,6 @@ I have also added a button that lets you sign in anonymously.
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Netlify](https://www.netlify.com) (have a look below) and [Vercel](https://vercel.com/) for the deploy and CI.
 
-## Netlify deploy & configuration
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/14a32bbb-d899-445d-8fa6-8bed739c0296/deploy-status)](https://app.netlify.com/sites/fakeflix-app/deploys)
-
 ### Deploy configuration steps
 
 1. Connect your GitHub account to Netlify
@@ -82,7 +105,8 @@ I have also added a button that lets you sign in anonymously.
 3. In Settings → Build & Deploy → Set **Build command** to : **_npm run build_**
 4. In Settings → Build & Deploy → Set **Publish directory** to : **_build_**
 5. In Settings → Build & Deploy → Set **Environment variables** → Click on **Edit variables** and add yours (ie: TMBd's API key, Firebase configuration).
-   <br/>
+
+<br/>
 
 ## 📸 Screenshots
 
@@ -162,13 +186,23 @@ REACT_APP_FIREBASE_MEASUREMEMT_ID=REACT_APP_FIREBASE_MEASUREMEMT_ID
   npm start
 ```
 
+<br/>
+
 ## :white_check_mark: Requirements
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+
 <br/>
 
 ## 📝 License
 
 [MIT](https://github.com/Th3Wall/Fakeflix/blob/main/LICENSE)
+
+<br/>
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Th3Wall/Fakeflix&type=Date)](https://star-history.com/#Th3Wall/Fakeflix&Date)
+
 
 <a href="https://www.buymeacoffee.com/th3wall" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="41" width="174" alt="Buy Me A Coffee" /></a>
